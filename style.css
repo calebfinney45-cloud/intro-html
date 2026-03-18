@@ -26,7 +26,7 @@ body {
     background-color: aquamarine;
     padding: 20px;
     margin: 10px;
-    border-radius: 8px;
+    border-radius: 50% 50% 50% 50%;
     border: solid 2px white;
     color: #000;
 }
